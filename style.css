@@ -1,0 +1,85 @@
+.nav-bar-container
+{
+   padding: 50px;
+   text-align: end;
+   font-size: 20px;
+}
+
+.middle-container
+{
+   
+    height: 400px;
+}
+.middle-container-table
+{
+    background-color: brown;
+    color: White;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.download-apple-button
+{
+    background-color: black;
+    height: 50px;
+    width:150px;
+    border-color:black;
+    border-radius:12px ;
+    color:whitesmoke;
+    border-width: 1px;;
+}
+
+.download-apple-button:hover
+{
+    background-color:lightgray;
+    border-color:lightgray;
+    color:black
+}
+.download-android-button
+{
+    background-color:brown;
+    height: 50px;
+    width:150px;
+    border-color:lightgray;
+    border-radius:12px 10px 10px 10px ;
+    color:white;
+    border-width: 1px;
+}
+.download-android-button:hover{
+    background-color:black;
+   
+    border-color:black;
+    
+    color:white;
+}
+
+.bottom-container
+{
+    padding: 50px;
+
+}
+h3
+{
+    font-size: medium;
+    font-weight: bold;
+}
+.easy-use
+{
+    text-align: center;
+}
+.icon 
+{
+ color:brown;
+}
+.icon:hover
+{
+    color:black;
+}
+
+
+.carousal-pics
+{
+    height: 600px;
+    background-color: brown;
+    padding-top: 50px;;
+}
